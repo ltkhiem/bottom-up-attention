@@ -1,0 +1,11 @@
+setup.py
+fast_rcnn.egg-info/PKG-INFO
+fast_rcnn.egg-info/SOURCES.txt
+fast_rcnn.egg-info/dependency_links.txt
+fast_rcnn.egg-info/top_level.txt
+nms/cpu_nms.c
+nms/gpu_nms.cpp
+nms/nms_kernel.cu
+pycocotools/_mask.c
+pycocotools/maskApi.c
+utils/bbox.c
